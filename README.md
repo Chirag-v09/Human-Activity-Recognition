@@ -8,7 +8,9 @@ Dataset available here :- https://www.crcv.ucf.edu/data/UCF_YouTube_Action.php
 # After this I also done classification on UCF 101 dataset
 
 Here Making directories.py is used to make directories.
+
 Transfer test dataset.py is used to extract images from videos for test dataset.
+
 Tranfer Trainin dataset.py is used to etract images from videos for training dataset.
 
 Recognition is done on 101 categories using Transfer Learning using pre-trained model ResNet50 224 reolution trained on imagenet dataset of 1000 categories.
