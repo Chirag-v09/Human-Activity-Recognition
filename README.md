@@ -29,3 +29,4 @@ Here I use trnsfer learning using different versions of ResNet Model.
 
 Perfomance matrices of the model.py :- This python file will extract the all the information about the model which we get trained from the UCF 101 dataset. This will give the Confusion Matrix, Precision_Score, F1_Score, Recall_Score all in one code.
 
+![Output Sample](https://github.com/Chirag-v09/Video-Classification/blob/master/titled.avi)
