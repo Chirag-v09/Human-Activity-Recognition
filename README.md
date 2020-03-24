@@ -31,13 +31,14 @@ Perfomance matrices of the model.py :- This python file will extract the all the
 
 ![Output sample](https://github.com/Chirag-v09/Video-Classification/blob/master/gif_1.gif)
 
-##Preprocessing: The old fashioned way
+
+## Preprocessing: The old fashioned way
 First, download the dataset from UCF Repository [https://www.crcv.ucf.edu/data/UCF101.php] then run the UCF_Preprocessing.py file to preprocess UCF101 dataset.
 
 In the preprocessing phase we used a different technique in which we extracted exactly 1,650 frames per category meaning 1,650 x 101 = 1,66,650 frames or you can say images in whole dataset
 
 
-##About Dataset
+## About Dataset
 
 UCF101 folder: ~100 to 150 videos per category
 
@@ -72,7 +73,7 @@ frames in training set = 151500 frames validation set = frames taken from valida
 for training purpose we used "training_set/" directory and for testing we used "testing_set/" directory
 
 
-##Model Analysis:
+## Model Analysis:
 
 models used:
 
@@ -92,7 +93,7 @@ MobileNet and MobileNetV2 are worst model to perform video classification becaus
 
 ResNet50 and ResNet50v2, both are giving much impressive results than their counterparts MobileNets but took much time for training because of the fact that it contains more deeper hidden layers than MobileNet models.
 
-##Required Parameters
+## Required Parameters
 
 dataset = "UCF-101/" # Actual Dataset Path
 
