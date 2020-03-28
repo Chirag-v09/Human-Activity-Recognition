@@ -5,7 +5,7 @@ Classification is done on 11 categories using Trnsfer Learning using pretrained 
 
 Dataset available here :- https://www.crcv.ucf.edu/data/UCF_YouTube_Action.php
 
-# After this I also done classification on UCF 101 dataset
+# After this I also done Video Classification on UCF 101 dataset
 
 Here Making directories.py is used to make directories.
 
