@@ -1,5 +1,5 @@
-# Video-Classification
-Video Classification on Dataset UCF 11
+# Human Activity Recognition
+Human Activity Recognition on Dataset UCF 11
 
 Classification is done on 11 categories using Transfer Learning using pre-trained model VGG16 224 resolution trained on an imagenet dataset of 1000 categories.
 
